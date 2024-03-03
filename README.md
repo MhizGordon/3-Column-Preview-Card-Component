@@ -14,3 +14,4 @@ Your users should be able to:
 - View the optimal layout depending on their device's screen size
 - See hover states for interactive elements
 
+The challenge was preety easy considering the fact that i had just finished a similar challenge so i didn't have any difficulties although since i'm new to this i wouldn't notice some mistakes so your feedbacks are welcomme : )
